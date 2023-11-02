@@ -64,3 +64,7 @@ $ npm start
 ```
 # ScreenShots
 
+![Alt text](<Screenshot 2023-11-02 193531.png>)
+![Alt text](<Screenshot 2023-11-02 193557.png>)
+![Alt text](<Screenshot 2023-11-02 193613.png>)
+![Alt text](<Screenshot 2023-11-02 193652.png>)
